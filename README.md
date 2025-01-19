@@ -1,4 +1,4 @@
-# TypeR Nuke Bot 🤖
+# TypeR nuker
 
 TypeR is a POC discord nuking bot. This is an older project, I'm only open sourcing it to prove I have JS experience.
 

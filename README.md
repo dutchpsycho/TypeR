@@ -6,7 +6,7 @@ TypeR is a POC discord nuking bot. This is an older project, I'm only open sourc
 
 ### Commands ⌨️
 
-TypeR responds to the following commands (prefix: `>`):
+TypeR responds to the following commands;
 
 - **`dc`**: Delete all channels
 - **`dr`**: Delete all roles.

@@ -35,7 +35,7 @@ TypeR responds to the following commands (prefix: `>`):
 1. **Clone the Repository**
 
    ```sh
-   git clone <https://github.com/hatesiku/TypeR>
+   git clone <https://github.com/dutchpsycho/TypeR>
    cd <TypeR>
    ```
 
